@@ -1,27 +1,43 @@
-# FreeFriday
+# Free-Study-Friday
+### Lew Davidson
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.6.
+# Today's Focuses
 
-## Development server
+* Javascript - further reviewing fundamentals of object-oriented programming, writing custom and call-back functions. I want to make sure that my knowledge-base there is rock-solid.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+* Angular - Reviewing dynamic routing and working with a database. I would like to sew up the holes in my understanding in regards to how everything (components, models, database, etc) work together and are connected. Perhaps draw out a flow chart or map to track the data-flow?
 
-## Code scaffolding
+* What is React? - To be honest I have a pretty limited understanding of what makes React special or unique in any way. I feel like I just haven't really had the time to dive into that either.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+* Writing a better README - I know they don't have to be these weird, dry documents and I know they serve a purpose but I'm not exactly sure what to include in one most of the time to be honest.
 
-## Build
+* Better and more frequent commits - How can I make informative, short, frequent commits a more consistent part of my process?
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
+# How I Spent my Time
 
-## Running unit tests
+*
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+# Further Work/Questions
 
-## Running end-to-end tests
+* I still feel largely unprepared to go into a technical interview (some imposter syndrome/some just never doing it before) and would like to have more career training in that area.
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
-## Further help
+# Work I would Like To Prioritize
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+* I would like to work more with Angular and React to become comfortable with the way they operate. I feel like React is going to be my most hire-able attribute and I would like to be confident in my skills.
+
+  I will do that by:
+
+  * Pre-work and study - I have found that watching videos (NetNinja, Trversy Media) before I get started on something new really helps my foundational knowledge feel more stable.
+
+* I would like more technical interview prep.
+
+  I will do that by:
+
+    * Hosting a meet at my house with a few classmates to do mock whiteboarding sessions.
+
+    * Watching videos and reading blogs about how to prepare for a technical interview.
+
+# Feedback
+
+* I want to thank you for allowing us this time. This program is extremely fast-paced and knowledge-heavy. I frequently get the feeling that I'm going to be left behind if i'm not grasping the concept. I often feel that I don't have enough time to study as fully as I would like before we move on to another subject! I know that you know how difficult this week has been for our class and I just really appreciate the opportunity to reflect and take the time to improve this things that have maybe gotten pushed aside by the next hing we have to learn!  
