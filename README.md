@@ -3,19 +3,25 @@
 
 # Today's Focuses
 
-* Javascript - further reviewing fundamentals of object-oriented programming, writing custom and call-back functions. I want to make sure that my knowledge-base there is rock-solid.
-
 * Angular - Reviewing dynamic routing and working with a database. I would like to sew up the holes in my understanding in regards to how everything (components, models, database, etc) work together and are connected. Perhaps draw out a flow chart or map to track the data-flow?
+
+Proof:
 
 * What is React? - To be honest I have a pretty limited understanding of what makes React special or unique in any way. I feel like I just haven't really had the time to dive into that either.
 
+Proof:
+[This React introductory tutorial](https://reactjs.org/tutorial/tutorial.html)
+[Repo for that tutorial](https://github.com/lewdavidson/react-tac-toe.git)
+
 * Writing a better README - I know they don't have to be these weird, dry documents and I know they serve a purpose but I'm not exactly sure what to include in one most of the time to be honest.
+
+Proof:
+[Cheatsheet for Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 * Better and more frequent commits - How can I make informative, short, frequent commits a more consistent part of my process?
 
-# How I Spent my Time
+Proof:
 
-*
 
 # Further Work/Questions
 
