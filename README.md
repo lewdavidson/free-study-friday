@@ -3,7 +3,7 @@
 
 # Today's Focuses
 
-* Angular - Reviewing dynamic routing and working with a database. I would like to sew up the holes in my understanding in regards to how everything (components, models, database, etc) work together and are connected. Perhaps draw out a flow chart or map to track the data-flow?
+* Angular - Reviewing dynamic routing and working with a database. I would like to sew up the holes in my understanding in regards to how everything (components, models, database, etc) work together and are connected. Perhaps draw out a flow chart or map to track the data-flow? Or a small app that uses the principles.
 
 Proof:
 
@@ -12,6 +12,7 @@ Proof:
 Proof:
 [This React introductory tutorial](https://reactjs.org/tutorial/tutorial.html)
 [Repo for that tutorial](https://github.com/lewdavidson/react-tac-toe.git)
+[This Article gave me a good idea of why React is Awesome](https://stories.jotform.com/7-reasons-why-you-should-use-react-ad420c634247)
 
 * Writing a better README - I know they don't have to be these weird, dry documents and I know they serve a purpose but I'm not exactly sure what to include in one most of the time to be honest.
 
