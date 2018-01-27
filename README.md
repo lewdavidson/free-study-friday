@@ -6,6 +6,7 @@
 * Angular - Reviewing dynamic routing and working with a database. I would like to sew up the holes in my understanding in regards to how everything (components, models, database, etc) work together and are connected. Perhaps draw out a flow chart or map to track the data-flow? Or a small app that uses the principles.
 
 Proof:
+[This repo for a dynamically routed site I made](https://github.com/lewdavidson/angular-store-friday.git)
 
 * What is React? - To be honest I have a pretty limited understanding of what makes React special or unique in any way. I feel like I just haven't really had the time to dive into that either.
 
@@ -22,6 +23,9 @@ Proof:
 * Better and more frequent commits - How can I make informative, short, frequent commits a more consistent part of my process?
 
 Proof:
+ * Hopefully My commit history!
+ * [this cheatsheet](https://github.com/erlang/otp/wiki/writing-good-commit-messages)
+ * [this article] (https://robots.thoughtbot.com/5-useful-tips-for-a-better-commit-message)
 
 
 # Further Work/Questions
@@ -41,7 +45,7 @@ Proof:
 
   I will do that by:
 
-    * Hosting a meet at my house with a few classmates to do mock whiteboarding sessions.
+    * Hosting a meet at my house with a few classmates to do mock white-boarding sessions.
 
     * Watching videos and reading blogs about how to prepare for a technical interview.
 
